@@ -1,0 +1,5 @@
+// Fixing the url-check
+// Create an uptime-command
+// Make it easier to create new commands
+Create a logging function
+// Make help return only the commands you may use
