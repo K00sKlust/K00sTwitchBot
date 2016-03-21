@@ -9,4 +9,4 @@ CHANNEL = "channel"                                                    # The cha
 JOIN_MESSAGE = "Hi, I'm a bot that just joined this channel."          # Message from the bot when it joins a channel.
 
 WOT_KEY = ""                                                           # Api key of WOT to check sites (mywot.com)
-CHECK_LINKS = True                                                     # Should the bot check links via WOT?
+CHECK_LINKS = False                                                    # Should the bot check links via WOT?
