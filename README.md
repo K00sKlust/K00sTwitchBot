@@ -14,3 +14,8 @@ It is possible to check links via WebOfTrust (myWOT.com).
 If you want the links to be checked, you have to create an account at myWOT.com and get an API key (http://www.mywot.com/profile/api).
 Then, paste your fresh key between the brackets after 'WOT_KEY = ' in the settings file.
 Also, do not forget to set CHECK_LINKS to True.
+
+## Create commands
+All commands are in the folder './commands/src'.
+If you want to create a new one, all you have to do is to copy the template, rename the file and edit it. That's all!
+It's save to just remove a command file.
