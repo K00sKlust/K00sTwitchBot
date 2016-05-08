@@ -17,5 +17,5 @@ Also, do not forget to set CHECK_LINKS to True.
 
 ## Create commands
 All commands are in the folder './commands/src'.
-If you want to create a new one, all you have to do is to copy the template, rename the file and edit it. That's all!
+If you want to create a new one, all you have to do is to duplicate the template, rename the file and edit it. That's all!
 It's save to just remove a command file.
